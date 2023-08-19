@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-[![MasterHead] (https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]
+![logo](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)]
 <h1 align="center">Hi 👋, I'm Sonu Kumar</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 <img src="https://img.freepik.com/premium-vector/programmer-work-laptop-computer-website-code-program-concept_133260-5400.jpg">
